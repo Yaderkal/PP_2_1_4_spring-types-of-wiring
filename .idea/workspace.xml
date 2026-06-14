@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed8b8e9a-3039-4e4f-9fc6-375bfad1461f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_2_1_4_spring-types-of-wiring/src/main/java/koschei/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_2_1_4_spring-types-of-wiring/src/main/java/koschei/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_2_1_4_spring-types-of-wiring/src/main/java/koschei/models/Deth8.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_2_1_4_spring-types-of-wiring/src/main/java/koschei/models/Deth8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_2_1_4_spring-types-of-wiring/src/main/java/koschei/models/Duck5.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_2_1_4_spring-types-of-wiring/src/main/java/koschei/models/Duck5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_2_1_4_spring-types-of-wiring/src/main/java/koschei/models/Egg6.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_2_1_4_spring-types-of-wiring/src/main/java/koschei/models/Egg6.java" afterDir="false" />
+    <list default="true" id="ed8b8e9a-3039-4e4f-9fc6-375bfad1461f" name="Changes" comment="вроде всё">
       <change beforePath="$PROJECT_DIR$/PP_2_1_4_spring-types-of-wiring/src/main/java/koschei/models/Needle7.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_2_1_4_spring-types-of-wiring/src/main/java/koschei/models/Needle7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_2_1_4_spring-types-of-wiring/src/main/java/koschei/models/Ocean1.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_2_1_4_spring-types-of-wiring/src/main/java/koschei/models/Ocean1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_2_1_4_spring-types-of-wiring/src/main/java/koschei/models/Rabbit4.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_2_1_4_spring-types-of-wiring/src/main/java/koschei/models/Rabbit4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,12 +49,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1781460495030</updated>
-      <workItem from="1781460496298" duration="1388000" />
+      <workItem from="1781460496298" duration="1727000" />
     </task>
+    <task id="LOCAL-00001" summary="вроде всё">
+      <option name="closed" value="true" />
+      <created>1781462128072</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781462128072</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="вроде всё" />
+    <option name="LAST_COMMIT_MESSAGE" value="вроде всё" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
